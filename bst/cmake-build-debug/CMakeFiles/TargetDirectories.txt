@@ -1,0 +1,3 @@
+/Users/yunusmerve/Documents/Yunus/itu/bst/cmake-build-debug/CMakeFiles/bst.dir
+/Users/yunusmerve/Documents/Yunus/itu/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yunusmerve/Documents/Yunus/itu/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir

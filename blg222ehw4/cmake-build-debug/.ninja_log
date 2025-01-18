@@ -1,0 +1,9 @@
+# ninja log v6
+1	52	1735630772322475210	build.ninja	7b65012679e2f3df
+1	40	1735630772329417141	CMakeFiles/blg222ehw4.dir/src/min_heap.c.o	4add0f37f89959c4
+1	40	1735630772329991337	CMakeFiles/blg222ehw4.dir/src/scheduler.c.o	2f1ad023b8fb9383
+1	42	1735630772329537097	CMakeFiles/blg222ehw4.dir/src/process.c.o	37e217986ccd54ae
+1	52	1735630772329180104	CMakeFiles/blg222ehw4.dir/src/main.c.o	874896054ea5fcf
+2	47	1735630918749147350	CMakeFiles/blg222ehw4.dir/src/min_heap.c.o	4add0f37f89959c4
+2	169	1735631092613910406	CMakeFiles/blg222ehw4.dir/src/scheduler.c.o	2f1ad023b8fb9383
+169	281	1735631092780836896	blg222ehw4	89e61a1e17accfe7
